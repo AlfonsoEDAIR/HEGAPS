@@ -39,4 +39,4 @@ PS.Parallel_strings = 35;
 PS.Series_connected_modules =8; 
 PS.Maximum_Power=285.12;
 
-
+open models\convertidor_inversor.slx;
